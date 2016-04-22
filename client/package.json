@@ -1,0 +1,7 @@
+{
+  "name": "customusers",
+  "description": "Customizing users with Angular and routing",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
